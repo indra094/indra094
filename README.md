@@ -83,9 +83,9 @@ Example project showing how to structure and build multi‑directory C++ project
 C++, Python, Java, SQL, Bash, Golang, Linux, Postgresql 
 
 **Systems & Tools:**
-CMake, STL, Multithreading, REST APIs, JSON, Linux, linux
+CMake, STL, Multithreading, REST APIs, JSON, Linux, distributed systems
 
-**processingding systems, backend engineering, computer graphics, Android, data procBobby-
+**Domains:**  Trading systems, backend engineering, computer graphics, Android, data processing.
 
 ## 📈 Philosophy
 
