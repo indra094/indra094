@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Indrajeet
 
-Senior Software Engineer with ~9 years of experience building **systems-heavy, performance-critical software**. My work spans **C++ systems**, **backend services**, **trading systems**, and **full‑stack experimentation** across multiple languages and domains.
+Senior Software Engineer with ~8 years of experience building **systems-heavy, performance-critical software**. My work spans **C++ systems**, **backend services**, **trading systems**, and **full‑stack experimentation** across multiple languages and domains.
 
 I enjoy working close to the metal, designing clean abstractions, and solving problems where **correctness, latency, and reliability** matter.
 
